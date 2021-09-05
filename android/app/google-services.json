@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440445928239",
+    "project_id": "boilerplate-bba03",
+    "storage_bucket": "boilerplate-bba03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440445928239:android:b07a5b37d0f7a9c86dd7da",
+        "android_client_info": {
+          "package_name": "com.example.boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440445928239-3f9noonh8nv9gp9cgrglt4vm5cdpfcov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrF8U_fOLXGXWDLtSPxqlS9gZ-LsBngoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440445928239-3f9noonh8nv9gp9cgrglt4vm5cdpfcov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
